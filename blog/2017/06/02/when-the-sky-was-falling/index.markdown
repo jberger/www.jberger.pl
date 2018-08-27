@@ -28,7 +28,7 @@ Why do I bring up these events from the past?
 Because if you want to know why the government should be involved in environmental policy, the large "in your face" example is that the environment is cleaner today than it was when we let industry run amok.
 The fact that dust storms, burning rivers, and haze-filled skies aren't daily problems anymore is a testament to that.
 
-Famously China still faces these problems and so do other developing nations, and the is still much to do, both here and abroad.
+Famously China still faces these problems and so do other developing nations, and there is still much to do, both here and abroad.
 But if I were Hugh Bennett reincarnate, I would throw the windows of the Capitol building open and let in the clean air as a showcase of why we MUST keep fighting for our environment.
 Breath deeply, because our predecessors have fought so that you can.
 And don't forget or abandon their work.
