@@ -8,7 +8,7 @@
     <author>
         <name>Joel Berger</name>
     </author>
-    <generator version="0.087">Statocles</generator>
+    <generator version="0.093">Statocles</generator>
 
     <entry>
         <id>http://jberger.pl/blog/2017/02/25/configuring-nginx-for-lets-encrypt.html</id>
